@@ -16,20 +16,19 @@ Elle offre une interface utilisateur simple et intuitive pour la gestion des tâ
 Voici des screens pour illustrer l'application:
 
 # Ecran d'accueil
-![image](https://user-images.githubusercontent.com/56023123/220168023-73b6b25c-4b3c-4dea-93dd-380557e95ff3.png)
+![IMG_1330](https://user-images.githubusercontent.com/56023123/220168797-38816cc7-5c50-488a-8a8e-d311389b5a49.jpg)
 
 # Creation d'un dossier
-![image](https://user-images.githubusercontent.com/56023123/220168119-b3020639-8681-494b-9e0b-dc7fd14e78bd.png)
+![IMG_1329](https://user-images.githubusercontent.com/56023123/220168840-1543a8b7-66d0-4c3b-a330-6d3224dff87d.jpg)
 
 # Liste des tâches d'un dossier
-![image](https://user-images.githubusercontent.com/56023123/220168186-efc1d867-8912-4c84-9ecf-3a2f9b2cd37f.png)
+![IMG_1325](https://user-images.githubusercontent.com/56023123/220168881-a356e2a9-8dac-4645-acb6-440745f67dcf.jpg)
 
 # Detail d'une tache avec possibilité d'ajouter une note et un rappel
-![image](https://user-images.githubusercontent.com/56023123/220168254-74a81810-b14a-4d0a-a286-420ddec1ce34.png)
 ![IMG_1326](https://user-images.githubusercontent.com/56023123/220168631-3a0c20bc-2143-400c-90d0-c51077152c4b.jpg)
 
 # Barre de recherche d'une tache
-![image](https://user-images.githubusercontent.com/56023123/220168315-228c102e-f84d-4d3d-9687-d213daf42050.png)
+![IMG_1324](https://user-images.githubusercontent.com/56023123/220168926-1cc10707-f4c9-440e-8ba7-fae8be03e724.jpg)
 
 # Logo de l'application
 ![image](https://user-images.githubusercontent.com/56023123/220168423-0e8f72b3-3f6c-4150-bb53-ead822122072.png)
